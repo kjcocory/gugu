@@ -1,4 +1,5 @@
-def gugu(dan) :
+#만든이 김성건
+def gugu(dan) : 
     for i in range(1, 30):
         print(f"{dan} X {i} = {dan * i}")
     
